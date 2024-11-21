@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
+
+  <b />
+chicago Image by <a href="https://www.freepik.com/free-vector/illustration-modern-buildings-night-background-with-urban-large-buildings_3264667.htm#query=8%20bit%20chicago&position=8&from_view=search&track=ais">Image by vectorpocket</a> on Freepik
+
+  <b />
+alienSprite Image by <a href="https://opengameart.org/content/alien-2d-sprites">Image by Korba</a> on OpenGameArt
+
+  <b />
+spaceShipSprite Image by <a href="https://opengameart.org/content/spaceship-1">Image by pitrizzo</a> on OpenGameArt
+
+  <b />
+alienSound Sound by <a href="https://opengameart.org/content/8-bit-sound-effects-2">Sound by hosch</a> on OpenGameArt
+
+  <b />
+shipSound Sound by <a href="https://opengameart.org/content/hit-sound-bitcrush">Sound by DaGameKnower</a> on OpenGameArt
+
+  <b />
+bulletSound Sound by <a href="https://opengameart.org/content/8-bit-sound-effects-2">Sound by hosch</a> on OpenGameArt
